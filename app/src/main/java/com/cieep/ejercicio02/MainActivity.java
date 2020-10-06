@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
 
-                // 4. Insertar el Linear en el contenedor
+                // 3. Insertar el Linear en el contenedor
                 contenedor.addView(filanota);
 
             }
